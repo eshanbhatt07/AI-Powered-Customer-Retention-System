@@ -1,0 +1,2 @@
+# AI-Powered-Customer-Retention-System
+Using Machine Learning, Natural Language Processing and Data Analysis to generate user specific coupons based on their complaints received from the customers. We use Random Forest algorithm to identify the most important features in calculating the customer score. And use NLP on the complaints dataset to identify categories of complaints and predict the complaints category for generating category specific coupons using Python.
